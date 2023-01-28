@@ -1,3 +1,8 @@
+[wello.PDF](https://github.com/xxbean/KoBERT/files/8708123/wello.PDF)
+Please select the file above to see more details of our project using the model.
+It is difficult to disclose the data, so only the process and conclusions are briefly presented.
+---
+
 # KoBERT
 
 * [KoBERT](#kobert)
